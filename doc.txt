@@ -1,2 +1,2 @@
-Estos son dos programitas de ejmplo
+Estos son dos programitas de ejemplo
 para aprender git
