@@ -12,5 +12,5 @@ main(){
       wait();
       printf("soy el padre %i \n", getpid());
   }
-  printf("FIN\n");
+  printf("Final del Programa. Cuántas veces se ejecutó?\n");
 }
