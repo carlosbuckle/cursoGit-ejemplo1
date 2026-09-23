@@ -17,5 +17,5 @@ main(){
         wait(); 
     }
   }
-  printf("FIN\n");
+  printf("Fin del programa\n");
 }
