@@ -11,7 +11,7 @@ main(){
 
     if (fork()==0){
         execlp("./pru","pru",param,0);
-        printf("ERROR al ejecutar EXEC\n");
+        printf("ERROR. Se produjo al ejecutar EXEC\n");
         exit(-1);
     } else {
         wait(); 
